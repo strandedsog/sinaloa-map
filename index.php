@@ -1,5 +1,5 @@
 <?php
 
-include_once("SINALOA_CAMP.html");
+include_once("SINALOA CAMP.html");
 
 ?>
